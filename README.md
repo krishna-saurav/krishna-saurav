@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @krishna-saurav
-- 👀 I am a Full stack developer with proficiency in web designing and development using React with Javascript and    
-  Typescript With 3 years of work experience in working with small to medium scale distributed systems. 
-- I’m interested in working on web development projects based on react, django, nodejs and scala.
-- 🌱 I’m currently learning spark with scala.
+- 👀 I am a Software Engineer having 4.8 yrs of experience in IT industry with proficiency in Big Data & Web application development. Expertise in designing Data engineering solutions through ETL pipelines, Streaming Ingest systems, Warehouses & Delta lakes, using Spark, Scala, Nifi, Snowflake, Hive, S3,  Kafka, Hadoop & AWS-EMR. Hands-on experience of various Data modelling & query-optimisation techniques. Strong command over Data structures , algorithms and the ability to code in multiple languages including Scala, Python, Javascript & Java. Proven leadership skills, with experience of quarterly OKR planning, requirement gathering, sprint planning, High/low level design, code reviews & release management.. 
+- I’m interested in working on Data Engineering projects based on Spark, Scala, Snowflake, nifi & Hadoop.
 - 📫 Drop a message to me on linkedIn for any collaboration. Here's my linkedIn profile https://www.linkedin.com/in/krishna-saurav-638558a2/
